@@ -4,3 +4,4 @@ streamlit==1.19.0
 langchain==0.0.129
 chromadb
 unstructured
+unstructured[local-inference]
